@@ -1,0 +1,11 @@
+# Ignore vendor directory
+/vendor
+
+# Ignore any log files
+/storage/*.log
+
+# Ignore compiled Blade templates
+/storage/framework/views
+
+*.DS_Store
+

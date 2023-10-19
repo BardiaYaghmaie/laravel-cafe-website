@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Pelak';
+    src: url('/public/assets/fonts/PelakFA-Medium.woff') format('woff');
+    font-weight: 500;
+}
+
+.pelaked {
+    font-family: Pelak !important;
+}
